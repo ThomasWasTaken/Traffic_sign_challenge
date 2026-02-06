@@ -36,6 +36,4 @@ The primary goal is to exceed an accuracy threshold of **99.47%** on the GTSRB t
     * Save the best model state based on validation accuracy.
 
 ## 📊 Results
-the model Acheiwed an accuracy of 99.63%, thereby ahceiwing the goal presented in the challenge.
-## 📜 License
-This project was developed as part of a Machine Learning competition focused on model elegance and performance.
+The model Acheiwed an accuracy of 99.63%, thereby ahceiwing the goal presented in the challenge.
